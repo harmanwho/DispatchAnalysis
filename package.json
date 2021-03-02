@@ -1,0 +1,14 @@
+{
+  "name": "@harmanwho/could-boston-polices-responsiveness-be-a-reason-for-declin",
+  "main": "b93fcc3e92c7f785@361.js",
+  "version": "361.0.0",
+  "homepage": "https://observablehq.com/@harmanwho/could-boston-polices-responsiveness-be-a-reason-for-declin",
+  "author": {
+    "name": "Harman Sidhu",
+    "url": "https://observablehq.com/@harmanwho"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
